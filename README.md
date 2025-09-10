@@ -11,11 +11,3 @@ A simple command-line Python app to track your daily expenses.
 ```bash
 python expense_tracker.py
 
-Future Improvements
-
-View expenses by category
-Monthly summaries
-Export to CSV
-
-Author
-Poulami Bhattacharyya
