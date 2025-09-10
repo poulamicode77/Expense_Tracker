@@ -20,4 +20,4 @@ python expense_tracker.py
 Poulami Bhattacharyya
 
 ## GitHub Repository
-You can find the source code and contribute to the project on GitHub: [Expense Tracker CLI App](https://github.com/yourusername/expense-tracker-cli)
+You can find the source code and contribute to the project on GitHub: [Expense Tracker CLI App](https://github.com/poulamicode77/expense_tracker)
