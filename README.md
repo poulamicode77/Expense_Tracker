@@ -1,5 +1,4 @@
 # Expense Tracker CLI App
-
 A simple command-line Python app to track your daily expenses.
 
 ## Features
@@ -10,12 +9,15 @@ A simple command-line Python app to track your daily expenses.
 ## How to Run
 ```bash
 python expense_tracker.py
+```
 
-Future Improvements
+## Future Improvements
+- View expenses by category
+- Monthly summaries
+- Export to CSV
 
-View expenses by category
-Monthly summaries
-Export to CSV
-
-Author
+## Author
 Poulami Bhattacharyya
+
+## GitHub Repository
+You can find the source code and contribute to the project on GitHub: [Expense Tracker CLI App](https://github.com/yourusername/expense-tracker-cli)
